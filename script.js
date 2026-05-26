@@ -48,6 +48,7 @@ function mostrarToast(mensaje){
         return color;
     }
 
+    
     function generarHSL() {
         const h = Math.floor(Math.random() * 360);
         const s = Math.floor(Math.random() * 100);
